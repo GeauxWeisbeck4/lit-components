@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/geauxweisbeck4.plainlit-l8s8tu7s",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ElUcYlbUI5ERiOgWENvt --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
